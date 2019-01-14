@@ -1,2 +1,2 @@
-# authptbr
-Laravel Auth pt-br
+# Auth pt-br
+Arquivos do Laravel Auth traduzidos para pt-br
